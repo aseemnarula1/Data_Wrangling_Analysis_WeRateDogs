@@ -1,2 +1,2 @@
 # Data_Wrangling_Analysis_WeRateDogs
-Udacity Data Engineering Nanodegree - Data Wrangling &amp; Analysis 
+ Udacity Data Engineer - Data Wrangling and Analyze
